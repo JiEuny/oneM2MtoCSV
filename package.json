@@ -1,0 +1,15 @@
+{
+  "name": "lte-data-dump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "onem2m_client": "^1.0.58",
+    "uuid": "^3.3.3"
+  }
+}
